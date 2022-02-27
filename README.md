@@ -1,4 +1,4 @@
-# CSCI 4253 / 5253 - Lab 4 - Patent Join in PySpark
+# Pyspark RDD and Dataframe to join Patents
 
 In this lab, you're going to use PySpark's RDD and DataFrame interfaces to solve the patent join problem.
 
